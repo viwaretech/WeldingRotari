@@ -47,7 +47,7 @@
 
 ---
 
-## 💾 Downloads (Secure)
+## 💾 Downloads
 
 ### Python GUI
 
