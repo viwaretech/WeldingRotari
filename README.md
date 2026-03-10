@@ -1,4 +1,4 @@
-# 🔧 welding-rotary
+# 🔧 Welding Rotary
 
 **welding-rotary – Custom Controller for Welding Machines**
 
